@@ -36,6 +36,4 @@
 
 <a href="[https://count.getloli.com/get/@July-0087?theme=rule34](https://count.getloli.com/get/@July-0087?theme=gelbooru)" target="_blank">
     <img align="right" alt="July-0087's getloli" src="[https://count.getloli.com/get/@July-0087?theme=rule34](https://count.getloli.com/get/@July-0087?theme=gelbooru)"/>
-<a href="https://count.getloli.com/get/@July-0087?theme=gelbooru" target="_blank">
-    <img align="right" alt="July-0087's getloli" src="https://count.getloli.com/get/@July-0087?theme=gelbooru"/>
 </a>
