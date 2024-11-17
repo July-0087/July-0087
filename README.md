@@ -34,7 +34,7 @@
     <img align="right" alt="July-0087's Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=July-0087&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css"/>
 </a>
 
-<a href="[https://count.getloli.com/get/@Glomzzz?theme=rule34](https://count.getloli.com/get/@July-0087?theme=gelbooru)" target="_blank">
+<a href="[https://count.getloli.com/get/@July-0087?theme=rule34](https://count.getloli.com/get/@July-0087?theme=gelbooru)" target="_blank">
     <img align="right" alt="July-0087's getloli" src="[https://count.getloli.com/get/@July-0087?theme=rule34](https://count.getloli.com/get/@July-0087?theme=gelbooru)"/>
 <a href="https://count.getloli.com/get/@July-0087?theme=gelbooru" target="_blank">
     <img align="right" alt="July-0087's getloli" src="https://count.getloli.com/get/@July-0087?theme=gelbooru"/>
